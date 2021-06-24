@@ -13,3 +13,6 @@ f1 =open("30_days_30_hour_operations.txt","r")
 print(f1.read())
 f1.close()
 
+#OUTPUT
+#I have completed 10 days successfully Manobala.N ECE
+
