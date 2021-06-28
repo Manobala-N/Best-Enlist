@@ -1,5 +1,4 @@
-#1). Write a Python program for all the cases which can check a string contains only a certain set of
-characters (in this case a-z, A-Z and 0-9).
+#1). Write a Python program for all the cases which can check a string contains only a certain set of characters (in this case a-z, A-Z and 0-9).
 
 import re
 
