@@ -50,7 +50,7 @@ from tkinter import messagebox
 config_file = "config.ini"
 config = ConfigParser()
 config.read(config_file)
-api_key = config['divya']['api']
+api_key = config['akash']['api']
 url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
 def getweather(city):
